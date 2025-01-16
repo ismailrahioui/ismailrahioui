@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/c87db333-da7e-4941-82d3-52e3519f124e)
 <h1 align="center">Hi 👋, I'm Ismail Rahioui</h1>
 <h3 align="center">Django Backend Developer</h3>
 
